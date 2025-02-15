@@ -1,7 +1,10 @@
 https://www.udemy.com/course/react-testing-library-and-jest
+![image](https://github.com/user-attachments/assets/a0cd1e3e-c5f1-4e63-8a2d-8c27be433ebb)
+
 
 ![image](https://github.com/user-attachments/assets/57028e70-4154-4ea7-9e86-3ad28d080d66)
-![image](https://github.com/user-attachments/assets/a0cd1e3e-c5f1-4e63-8a2d-8c27be433ebb)
+![image](https://github.com/user-attachments/assets/c1ec8bc9-92e5-49ba-8605-ef4d7414c034)
+
 
 - Run 'yarn test' or equivalent command
 
