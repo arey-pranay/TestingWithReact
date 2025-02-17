@@ -26,3 +26,20 @@
 
 - Testing Playgroud to find better query functions (screen.logTestingPlaygroundURL())
   - ![image](https://github.com/user-attachments/assets/8fa2259b-f030-4d78-ab66-6bcfbbc6a1ac)
+
+- Table elements (sections) and their ARIA roles
+  - ![image](https://github.com/user-attachments/assets/e7a66a7b-6466-412a-9882-e21f3bcf4c04)
+ 
+- 2 Ways to get more accurate results when the query functions are not very exact.
+  - ![image](https://github.com/user-attachments/assets/a72e3a41-576e-4fad-9c62-9e54ef2d971f)
+  
+- Selecting the elements inside a specific div using the attribute data-testid. e.g., <tbody data-testid = "users">{renderedUsers}</tbody> and the "within() function"
+  - ![image](https://github.com/user-attachments/assets/f91c7b5a-5c02-45cc-b31e-d580c87fd883)
+
+- Selecting element by using the "container" that is one of the stuffs returned by the render function. And also eslint redline disable comment.
+  - ![image](https://github.com/user-attachments/assets/bcd3c134-908a-4c5f-9345-64874b94f688)
+
+- Keep the "repeating code" in a separate function so that you can directly use it as the first line of every test in the specific file
+  - ![image](https://github.com/user-attachments/assets/e77da49c-3974-4445-b4e6-dc98c1756255)
+
+ 
