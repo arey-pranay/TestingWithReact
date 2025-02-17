@@ -15,5 +15,14 @@
 - Matchers
   - ![image](https://github.com/user-attachments/assets/d820b138-051c-42cb-96cc-bd86459719ce)
 
-- Input Eventss
+- Input Events
   - ![image](https://github.com/user-attachments/assets/8b548a54-ef4c-4bce-9c2b-0ece808a36aa)
+
+- Mock Functions
+  - ![image](https://github.com/user-attachments/assets/e4f26862-2f05-4833-a4a9-82ce795b451e)
+
+- Label and Input (i means that it is case-independant)
+  - ![image](https://github.com/user-attachments/assets/3ba809f1-33fa-4e82-b7e0-25a991d2e875)
+
+- Testing Playgroud to find better query functions (screen.logTestingPlaygroundURL())
+  - ![image](https://github.com/user-attachments/assets/8fa2259b-f030-4d78-ab66-6bcfbbc6a1ac)
