@@ -26,6 +26,12 @@ These names indicate the following:
 | queryBy | null      | Element | Throw     |                                                |
 | findBy  | Throw     | Element | Throw     | Looks for an element over the span of 1 second |
 
+(Use await with findBy)
+(getBy throws an error but queryBy does not throw error, so mostly use getBy)
+But use queryBy when you want to prove that the test will fail, and still want to go the next line after that
+![image](https://github.com/user-attachments/assets/e4dede6d-93c0-4edd-afb6-4612880bead1)
+
+
 ---
 
 ### Looking for Multiple Elements?
@@ -234,3 +240,7 @@ test('Favor findBy or findAllBy when data fetching', async () => {
 ```
 
 ---
+
+
+![image](https://github.com/user-attachments/assets/53856aaa-75ba-448d-8010-2a5f236ddfba)
+
