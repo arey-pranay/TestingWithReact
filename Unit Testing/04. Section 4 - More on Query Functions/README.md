@@ -110,7 +110,7 @@ test('getBy, queryBy, findBy when they find 1 element', async () => {
     screen.queryByRole('list')
   ).toBeInTheDocument();
   expect(
-    await screen.findByRole('list')
+  await screen.findByRole('list')
   ).toBeInTheDocument();
 });
 ```
