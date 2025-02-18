@@ -1,7 +1,4 @@
----
-
 # Query Functions
-
 All query functions are accessed through the `screen` object in a test. These query functions *always* begin with one of the following names: `getBy`, `getAllBy`, `queryBy`, `queryAllBy`, `findBy`, `findAllBy`.
 
 | Start of Function Name | Examples                             |
